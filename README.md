@@ -18,10 +18,9 @@ Beat-Kit is a vibrant and interactive web toolkit built with HTML, CSS, and Java
  
   1.Clone the Repository:
 
-  ```bash
-  git clone https://github.com/aasish0304/Beat-Kit.git
+ 
+  `\git clone https://github.com/aasish0304/Beat-Kit.git\`
 
-  
  2.Navigate to Project Directory:
   cd Beat-Kit
  3.Open index.html in Your Browser: Double-click the index.html file to open it in your default web browser.
