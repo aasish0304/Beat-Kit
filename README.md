@@ -28,11 +28,13 @@ Beat-Kit is a vibrant and interactive web toolkit built with HTML, CSS, and Java
   ```
   cd Beat-Kit
   ```
- 3. **Open `index.html` in Your Browser:**
+ 3.**Open `index.html` in Your Browser:**
     Double-click the `index.html` file to open it in your default web browser.
 
 ## Usage
 -Click on the drum elements on the webpage to play sounds.
+
+
 -Alternatively, you can use your keyboard's keys:
 - "W" for crash sound.
 - "A" for kick sound.
