@@ -5,13 +5,23 @@ Beat-Kit is a vibrant and interactive web toolkit built with HTML, CSS, and Java
  # Features:
 
  1.Interact with drum elements by clicking or using keyboard shortcuts to trigger drum sounds.
+
+ 
  2.Sleek, adaptive design that looks great on any device.
+
+ 
  3.Simple to modify and expand with additional drum sounds.
 
  # Getting Started:
  Follow these steps to set up andrun the Beat-Kit on your local machine
+
+ 
   1.Clone the Repository:
+
+  
   git clone https://github.com/aasish0304/Beat-Kit.git
+
+  
  2.Navigate to Project Directory:
   cd Beat-Kit
  3.Open index.html in Your Browser: Double-click the index.html file to open it in your default web browser.
