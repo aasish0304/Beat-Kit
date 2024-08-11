@@ -8,9 +8,23 @@ Features:
  2.Sleek, adaptive design that looks great on any device.
  3.Simple to modify and expand with additional drum sounds.
 
- Getting Started
+ 1.Getting Started:
+ Follow these steps to set up andrun the Beat-Kit on your local machine
+  git clone https://github.com/aasish0304/Beat-Kit.git
+ 2.Navigate to Project Directory:
+  cd Beat-Kit
+ 3.Open index.html in Your Browser: Double-click the index.html file to open it in your default web browser.
 
-
+Usage:
+Click on the drum elements on the webpage to play sounds.
+Alternatively, you can use your keyboard's keys:
+"W" for crash sound.
+"A" for kick sound.
+"S" for snare sound.
+"D" for tom sound.
+"J" for tom sound.
+"K" for tom sound.
+"L" for tom sound.
 
 
 
