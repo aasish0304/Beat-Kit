@@ -16,28 +16,31 @@ Beat-Kit is a vibrant and interactive web toolkit built with HTML, CSS, and Java
  Follow these steps to set up andrun the Beat-Kit on your local machine
 
  
-  1.Clone the Repository:
+  1.***Clone the Repository:***
 
  
- \`\`\`bash
-git clone https://github.com/aasish0304/Beat-Kit.git
-\`\`\`
+ ```
+ git clone https://github.com/aasish0304/Beat-Kit.git
+ ```
 
 
- 2.Navigate to Project Directory:
+ 2.***Navigate to Project Directory***:
+  ```
   cd Beat-Kit
- 3.Open index.html in Your Browser: Double-click the index.html file to open it in your default web browser.
+  ```
+ 3. **Open `index.html` in Your Browser:**
+    Double-click the `index.html` file to open it in your default web browser.
 
-Usage:
-Click on the drum elements on the webpage to play sounds.
-Alternatively, you can use your keyboard's keys:
-"W" for crash sound.
-"A" for kick sound.
-"S" for snare sound.
-"D" for tom sound.
-"J" for tom sound.
-"K" for tom sound.
-"L" for tom sound.
+## Usage
+-Click on the drum elements on the webpage to play sounds.
+-Alternatively, you can use your keyboard's keys:
+- "W" for crash sound.
+- "A" for kick sound.
+- "S" for snare sound.
+- "D" for tom sound.
+- "J" for tom sound.
+- "K" for tom sound.
+- "L" for tom sound.
 
 
 
