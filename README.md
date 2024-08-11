@@ -44,5 +44,8 @@ Beat-Kit is a vibrant and interactive web toolkit built with HTML, CSS, and Java
 - "K" for tom sound.
 - "L" for tom sound.
 
+# My Project
+
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
 
 
